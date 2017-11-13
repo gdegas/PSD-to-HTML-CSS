@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body ul li {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+/* ------------ FONTS ----------- */
+
+@font-face {
+  font-family: bebas;
+  src: url(./fonts/BEBAS___.ttf);
+}
+
+@font-face {
+  font-family: clear sans;
+  src: url(./fonts/ClearSans-Medium.ttf);
+}
+
+@font-face {
+  font-family: clear sans light;
+  src: url(./fonts/ClearSans-Light.ttf);
+}
+
+@font-face {
+  font-family: clear sans thin;
+  src: url(./fonts/ClearSans-Thin.ttf);
+}
+
+@font-face {
+  font-family: Ubuntu regular;
+  src: url(./fonts/ubuntu-r.ttf);
+}
+
+@font-face {
+  font-family: Ubuntu light;
+  src: url(./fonts/ubuntu-l.ttf);
+}
+
+@font-face {
+  font-family: Ubuntu medium;
+  src: url(./fonts/ubuntu-m.ttf);
+}
+
+@font-face {
+  font-family: Open Sans Bold;
+  src: url(./fonts/opensans-bold.ttf);
+}
+
+/* -------------- COLORS -------------- */
+
+.primary-color {
+  color: rgb(255, 99, 7);
+}
+
+.gray-text {
+  color: rgb(170, 170, 170);
+}
+
+.dark-gray {
+  color: rgb(106, 106, 106);
+}

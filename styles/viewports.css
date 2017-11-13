@@ -1,0 +1,54 @@
+#page-wrap {
+  width: 70%;
+  float: left;
+}
+
+#left-margin {
+  width: 15%;
+  float: left;
+}
+
+#left-margin > .nav-div {
+  background: rgb(255, 99, 7);
+  height: 28px;
+  width: 100%;
+}
+
+#left-margin > .header-div {
+  background: rgb(249, 249, 249);
+  height: 85px;
+  width: 100%;
+}
+
+#left-margin > .footer-div {
+  position: absolute;
+  bottom: 0;
+  background: rgb(218, 218, 218);
+  height: 36px;
+  width: 100%;
+}
+
+#right-margin {
+  width: 15%;
+  float: left;
+}
+
+#right-margin > .nav-div {
+  background: rgb(255, 99, 7);
+  height: 28px;
+  width: 100%;
+}
+
+#right-margin > .header-div {
+  background: rgb(249, 249, 249);
+  height: 85px;
+  width: 100%;
+}
+
+#right-margin > .footer-div {
+  position: absolute;
+  bottom: 0;
+  background: rgb(218, 218, 218);
+  height: 36px;
+  width: 100%;
+}
